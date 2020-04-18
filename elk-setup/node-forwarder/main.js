@@ -24,17 +24,6 @@ const server = http.createServer((req, res) => {
 //     })
 // }, 10000);
 
-// let optionsMote = {
-//   host: '[aaaa::212:7402:2:202]',
-//   hostname: 'aaaa::212:7402:2:202',
-//   port: 80,
-//   path: '/',
-//   method: 'GET',
-//   headers: {
-//     'Accept': '*/*',
-//     'User-Agent': 'node'
-//   }
-// }
 
 // var interval = setInterval(() => {
 //   const req = http.request(optionsMote, res => {
